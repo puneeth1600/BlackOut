@@ -1,0 +1,56 @@
+{"id":"syn-001","text":"Customer 5430 0192 4984 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-002","text":"Customer 5748 9722 3039 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-003","text":"Customer 2113 2429 3305 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-004","text":"Customer 7089 8019 0445 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-005","text":"Customer 3218 5610 2922 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-006","text":"Customer 3120 0779 2618 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-007","text":"Customer 8281 5619 4387 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-008","text":"Customer 8060 2044 1138 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-009","text":"Customer 3599 5959 7145 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-010","text":"Customer 2966 6012 9781 verified.\n","spans":[{"start":9,"end":23,"label":"ID number"}],"tags":["unlabelled-valid"]}
+{"id":"syn-011","text":"Number 613125082213 on file.\n","spans":[{"start":7,"end":19,"label":"ID number"}],"tags":["unlabelled-valid","no-spaces"]}
+{"id":"syn-012","text":"Number 936684975544 on file.\n","spans":[{"start":7,"end":19,"label":"ID number"}],"tags":["unlabelled-valid","no-spaces"]}
+{"id":"syn-013","text":"Number 620395928197 on file.\n","spans":[{"start":7,"end":19,"label":"ID number"}],"tags":["unlabelled-valid","no-spaces"]}
+{"id":"syn-014","text":"Number 857797029638 on file.\n","spans":[{"start":7,"end":19,"label":"ID number"}],"tags":["unlabelled-valid","no-spaces"]}
+{"id":"syn-015","text":"Number 832995911498 on file.\n","spans":[{"start":7,"end":19,"label":"ID number"}],"tags":["unlabelled-valid","no-spaces"]}
+{"id":"syn-016","text":"Number 260181645922 on file.\n","spans":[{"start":7,"end":19,"label":"ID number"}],"tags":["unlabelled-valid","no-spaces"]}
+{"id":"syn-017","text":"Aadhaar No: 8579 4217 6126\n","spans":[{"start":12,"end":26,"label":"ID number"}],"tags":["labelled-valid"]}
+{"id":"syn-018","text":"Aadhaar No: 9832 1861 2804\n","spans":[{"start":12,"end":26,"label":"ID number"}],"tags":["labelled-valid"]}
+{"id":"syn-019","text":"Aadhaar No: 9244 4988 6453\n","spans":[{"start":12,"end":26,"label":"ID number"}],"tags":["labelled-valid"]}
+{"id":"syn-020","text":"Aadhaar No: 9198 2635 7739\n","spans":[{"start":12,"end":26,"label":"ID number"}],"tags":["labelled-valid"]}
+{"id":"syn-021","text":"Aadhaar No: 8005 1306 0329\n","spans":[{"start":12,"end":26,"label":"ID number"}],"tags":["labelled-valid"]}
+{"id":"syn-022","text":"Aadhaar No: 9171 2927 4090\n","spans":[{"start":12,"end":26,"label":"ID number"}],"tags":["labelled-valid"]}
+{"id":"syn-023","text":"UID: 2009 0240 3690 (typo in last digit)\n","spans":[{"start":5,"end":19,"label":"ID number"}],"tags":["labelled-invalid-checksum"]}
+{"id":"syn-024","text":"UID: 7691 5729 2190 (typo in last digit)\n","spans":[{"start":5,"end":19,"label":"ID number"}],"tags":["labelled-invalid-checksum"]}
+{"id":"syn-025","text":"UID: 7503 1403 2490 (typo in last digit)\n","spans":[{"start":5,"end":19,"label":"ID number"}],"tags":["labelled-invalid-checksum"]}
+{"id":"syn-026","text":"UID: 5142 7707 4850 (typo in last digit)\n","spans":[{"start":5,"end":19,"label":"ID number"}],"tags":["labelled-invalid-checksum"]}
+{"id":"syn-027","text":"UID: 2626 0984 9080 (typo in last digit)\n","spans":[{"start":5,"end":19,"label":"ID number"}],"tags":["labelled-invalid-checksum"]}
+{"id":"syn-028","text":"UID: 4955 2543 9140 (typo in last digit)\n","spans":[{"start":5,"end":19,"label":"ID number"}],"tags":["labelled-invalid-checksum"]}
+{"id":"syn-029","text":"Ref 2502 0137 5280 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-030","text":"Ref 2780 9114 2300 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-031","text":"Ref 6626 8289 8930 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-032","text":"Ref 2936 1122 0430 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-033","text":"Ref 8926 7854 0240 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-034","text":"Ref 6347 0679 3950 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-035","text":"Ref 3050 7222 0480 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-036","text":"Ref 3333 9113 0931 is an internal code.\n","spans":[],"tags":["negative","unlabelled-invalid-checksum"]}
+{"id":"syn-037","text":"Ref 1197 5445 0719 and 0826 1715 6090 are not Aadhaar numbers.\n","spans":[],"tags":["negative","bad-first-digit"]}
+{"id":"syn-038","text":"Ref 1029 4057 2596 and 0359 1873 0421 are not Aadhaar numbers.\n","spans":[],"tags":["negative","bad-first-digit"]}
+{"id":"syn-039","text":"Ref 1567 3744 9597 and 0862 9799 8504 are not Aadhaar numbers.\n","spans":[],"tags":["negative","bad-first-digit"]}
+{"id":"syn-040","text":"Tax ID BIDFK3939G belongs to the vendor.\n","spans":[{"start":7,"end":17,"label":"ID number"}],"tags":["pan-valid"]}
+{"id":"syn-041","text":"Tax ID ZVPLM7183A belongs to the vendor.\n","spans":[{"start":7,"end":17,"label":"ID number"}],"tags":["pan-valid"]}
+{"id":"syn-042","text":"Tax ID EVWPP3848E belongs to the vendor.\n","spans":[{"start":7,"end":17,"label":"ID number"}],"tags":["pan-valid"]}
+{"id":"syn-043","text":"Tax ID IXHCY8039X belongs to the vendor.\n","spans":[{"start":7,"end":17,"label":"ID number"}],"tags":["pan-valid"]}
+{"id":"syn-044","text":"PAN: TGQON1100C (as written on the form)\n","spans":[{"start":5,"end":15,"label":"ID number"}],"tags":["pan-labelled-bad-type"]}
+{"id":"syn-045","text":"PAN: HFQKE6581R (as written on the form)\n","spans":[{"start":5,"end":15,"label":"ID number"}],"tags":["pan-labelled-bad-type"]}
+{"id":"syn-046","text":"PAN: XOUWT6806E (as written on the form)\n","spans":[{"start":5,"end":15,"label":"ID number"}],"tags":["pan-labelled-bad-type"]}
+{"id":"syn-047","text":"PAN: DPTNV7015P (as written on the form)\n","spans":[{"start":5,"end":15,"label":"ID number"}],"tags":["pan-labelled-bad-type"]}
+{"id":"syn-048","text":"Part code TQGMG8895N in stock.\n","spans":[],"tags":["negative","pan-unlabelled-bad-type"]}
+{"id":"syn-049","text":"Part code HQIXN0622G in stock.\n","spans":[],"tags":["negative","pan-unlabelled-bad-type"]}
+{"id":"syn-050","text":"Part code CYCWP7570A in stock.\n","spans":[],"tags":["negative","pan-unlabelled-bad-type"]}
+{"id":"syn-051","text":"Part code TDEIF5284W in stock.\n","spans":[],"tags":["negative","pan-unlabelled-bad-type"]}
+{"id":"syn-052","text":"Part code EDOMZ3804M in stock.\n","spans":[],"tags":["negative","pan-unlabelled-bad-type"]}
+{"id":"syn-053","text":"Part code NDIVL6680N in stock.\n","spans":[],"tags":["negative","pan-unlabelled-bad-type"]}
+{"id":"syn-054","text":"Aadhaar: 7645 6982 0511, PAN KEGTF2233M, mobile 70031 96489\n","spans":[{"start":9,"end":23,"label":"ID number"},{"start":29,"end":39,"label":"ID number"},{"start":48,"end":59,"label":"Phone"}],"tags":["mixed"]}
+{"id":"syn-055","text":"Aadhaar: 9570 2453 0015, PAN OTCAB0907S, mobile 9233408795\n","spans":[{"start":9,"end":23,"label":"ID number"},{"start":29,"end":39,"label":"ID number"},{"start":48,"end":58,"label":"Phone"}],"tags":["mixed"]}
+{"id":"syn-056","text":"Aadhaar: 2502 1101 1268, PAN OYXTE5334U, mobile 70115-31179\n","spans":[{"start":9,"end":23,"label":"ID number"},{"start":29,"end":39,"label":"ID number"},{"start":48,"end":59,"label":"Phone"}],"tags":["mixed"]}
